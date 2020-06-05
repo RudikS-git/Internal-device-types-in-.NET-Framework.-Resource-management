@@ -5,5 +5,5 @@
 ![alt text](EmployeeMethodTable.png "2")​
 ![alt text](InterfaceMethod.png "3")​
 ![alt text](PointFields.png "4")​
-![alt text](non-virtual method.png "5")​
+![alt text]("non-virtual method.png" "5")​
 ![alt text](virtualMethod.png "6")​
